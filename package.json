@@ -4,7 +4,10 @@
   "description": "An example JSX in Js component",
   "main": "index.js",
   "repository": "https://github.com/soof-golan/bad-jsx-in-js-component",
-  "author": "Soof Golan",
+  "author": "Soof Golan <npm@soofgolan.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "peerDependencies": {
+    "react": ">=16.0.0"
+  }
 }
