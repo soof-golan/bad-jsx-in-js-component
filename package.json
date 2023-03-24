@@ -9,5 +9,9 @@
   "private": false,
   "peerDependencies": {
     "react": ">=16.0.0"
-  }
+  },
+  "type": "module",
+  "files": [
+    "index.js"
+  ]
 }
