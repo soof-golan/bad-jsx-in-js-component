@@ -1,9 +1,3 @@
-import React from "react";
+import BadTSXInTs from "./BadTSXInTs";
 
-export default function JSXinTS() {
-  return (
-    <>
-      <h1>Some JSX content</h1>
-    </>
-  );
-}
+export default BadTSXInTs;

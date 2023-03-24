@@ -1,9 +1,3 @@
-import React from "react";
+import BadJSXinJS from "./js/BadJSXinJS.js";
 
-export default function JSXinJS() {
-  return (
-    <>
-      <h1>Some JSX content</h1>
-    </>
-  );
-}
+export default BadJSXinJS;

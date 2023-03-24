@@ -8,11 +8,19 @@
   "license": "MIT",
   "private": false,
   "peerDependencies": {
-    "react": ">=16.0.0"
+    "react": ">=16.0.0",
+    "typescript": ">=4.0.0"
   },
   "type": "module",
   "files": [
     "index.js",
-    "ts/index.ts"
-  ]
+    "ts/index.ts",
+    "ts/BadTSXInJs.ts",
+    "ts/GoodTSX.tsx",
+    "js/BadJSXinJS.js",
+    "js/GoodJSX.jsx"
+  ],
+  "devDependencies": {
+    "@types/react": ">=16.0.0"
+  }
 }
