@@ -5,7 +5,7 @@ This is an example component to debug module loaders that don't support JSX in J
 ## To use
 
 ```shell
-yarn install bad-jsx-in-js-component
+yarn add bad-jsx-in-js-component
 # OR npm install bad-jsx-in-js-component
 ```
 
